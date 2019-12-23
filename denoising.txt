@@ -1,0 +1,4 @@
+https://www.kaggle.com/zhoulingyan0228/denoising-documents-w-cnn/data
+https://www.kaggle.com/aakashnain/denoising-autoencoders-to-the-rescue
+
+
